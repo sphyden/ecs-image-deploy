@@ -55,7 +55,7 @@ def pass_notification(message_body):
     return response
 
 def validate_cluster(cluster):
-    clusters = ["pe", "stage", "production"]
+    clusters = ["list", "of", "ecs", "clusters"]
     if cluster in clusters:
         return True
     return False
