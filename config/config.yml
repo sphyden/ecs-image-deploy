@@ -1,0 +1,6 @@
+example-service-1:
+  service_name: 'example1'
+  ecr_repo: 'example-repo1'
+example-service-2:
+  service_name: 'example2'
+  ecr_repo: 'example-repo2'
